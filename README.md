@@ -44,5 +44,5 @@ git clone [https://github.com/samueljunqueiraa/Netflix-Project.git](https://gith
 ```
 
 ### Importe o projeto: Abra o IntelliJ IDEA e selecione a pasta raiz do projeto.
-### Execute a aplicação: Localize a classe Main.java (ou equivalente) dentro da pasta Netflix/src e execute o método main.
+### Execute a aplicação: Localize a classe Main.java dentro da pasta Netflix/src e execute o método main.
 ## 🐾 Projeto desenvolvido para consolidar lógica de programação e arquitetura Java. EOF
