@@ -1,4 +1,4 @@
-# 🎬 Netflix Project (Java CLI)
+# 🎬 Netflix Project Java
 
 Uma aplicação desenvolvida em **Java** que simula as funcionalidades principais de uma plataforma de streaming via interface de linha de comando (CLI). O foco do projeto é a aplicação de conceitos de Orientação a Objetos (POO) e organização estrutural de código.
 
